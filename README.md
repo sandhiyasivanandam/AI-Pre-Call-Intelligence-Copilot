@@ -36,9 +36,7 @@ The system generates concise and actionable reports that help sales teams unders
 ---
 
 # Workflow Architecture
-
-![Sales Copilot Architecture](architecture/Work flow architecture.png)
-
+![Sales Copilot Architecture](architecture/Work%20flow%20architecture.png)
 ```text
 Company Website URL + LinkedIn Profile URL
                     ↓
