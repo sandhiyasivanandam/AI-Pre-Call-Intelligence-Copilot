@@ -51,6 +51,8 @@ Company Website URL + LinkedIn Profile URL
 
 ---
 
+
+---
 # Sample Output
 
 ## Company Research Sample Output
