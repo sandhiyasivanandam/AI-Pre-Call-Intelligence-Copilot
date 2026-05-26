@@ -64,3 +64,10 @@ Company Website URL + LinkedIn Profile URL
 ## Pre-Call report Sample Output
 
 ![Sales Copilot Sample Prospect Research Output](screenshots/pre-call-report-output.png)
+
+
+---
+
+# Sales Co-pilot Input & Output
+
+![Sales Copilot Sample Sales Co-Pilot Output](screenshots/company-research-output.png)
