@@ -52,7 +52,7 @@ Company Website URL + LinkedIn Profile URL
 ---
 # Technical Workflow Architecture
 
-![Sales Copilot Architecture](architecture/Sales%20Copilot%20Tech%20Architecture.png)
+![Sales Copilot Architecture](architecture/Sales_Copilot_Tech_Architecture.png)
 
 
 ---
