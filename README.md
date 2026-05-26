@@ -47,3 +47,10 @@ Company Website URL + LinkedIn Profile URL
          Pre-Call Report Generator
                     ↓
       AI-Powered Strategic Sales Briefing
+```
+
+---
+
+# Sample Output
+![Sales Copilot Sample Company Research Output](screenshot/company-research-output.png)
+
