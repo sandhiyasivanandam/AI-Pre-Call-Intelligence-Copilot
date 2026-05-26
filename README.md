@@ -70,7 +70,7 @@ Company Website URL + LinkedIn Profile URL
 
 # Sales Co-pilot Input & Output
 
-![Sales Copilot Sample Sales Co-Pilot Output](screenshots/Sales%20Copilot.png)
+![Sales Copilot Sample Sales Co-Pilot](screenshots/Sales_Copilot.png)
 
 ![Sales Copilot Sample Sales Co-Pilot Output](screenshots/Sales_Copilot_Input.png)
 
