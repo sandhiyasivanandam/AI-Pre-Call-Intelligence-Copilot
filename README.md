@@ -85,6 +85,6 @@ Company Website URL + LinkedIn Profile URL
 ![Sales Copilot Sample Sales Co-Pilot](screenshots/AI-Pre-Call-Intelligence-Copilot-input.png)
 
 
-## SAI Pre-Call Intelligence Copilot Output(Pre-Call Report)
+## AI Pre-Call Intelligence Copilot Output(Pre-Call Report)
 
 ![Sales Copilot Sample Sales Co-Pilot Output](screenshots/Sales_Copilot_Output.png)
