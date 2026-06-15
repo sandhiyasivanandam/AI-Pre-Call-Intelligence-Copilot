@@ -73,18 +73,18 @@ Company Website URL + LinkedIn Profile URL
 
 ---
 
-# Sales Co-pilot 
+# AI Pre-Call Intelligence Copilot
 
-## Sales Co-pilot Prompt
+## AI Pre-Call Intelligence Copilot Prompt
 
 ![Sales Copilot Sample Sales Co-Pilot](screenshots/Sales_Copilot.png)
 
 
-## Sales Co-pilot Input
+## AI Pre-Call Intelligence Copilot Input
 
 ![Sales Copilot Sample Sales Co-Pilot](screenshots/Sales_Copilot_Input.png)
 
 
-## Sales Co-pilot Output(Pre-Call Report)
+## SAI Pre-Call Intelligence Copilot Output(Pre-Call Report)
 
 ![Sales Copilot Sample Sales Co-Pilot Output](screenshots/Sales_Copilot_Output.png)
