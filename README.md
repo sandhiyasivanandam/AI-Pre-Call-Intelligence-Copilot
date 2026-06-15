@@ -1,6 +1,6 @@
 # AI Pre-Call Intelligence Copilot
 
-An AI-powered Sales Copilot built using agentic workflow concepts in Relevance AI to automate company research, prospect intelligence, and strategic pre-call report generation for sales and solutions engineering teams.
+An AI Pre-Call Intelligence Copilot built using agentic workflow concepts in Relevance AI to automate company research, prospect intelligence, and strategic pre-call report generation for sales and solutions engineering teams.
 
 ---
 
